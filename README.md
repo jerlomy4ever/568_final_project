@@ -101,3 +101,7 @@ All binaries are copied to the `bin` directory of the source folder of the proje
 3. start the processing of the scans via the "play button" in the GUI.
 
 
+## YouTube
+A brief presentation is [here](https://www.youtube.com/watch?v=GOJdxepvooA&t&ab_channel=ZephaniahHill)
+
+
